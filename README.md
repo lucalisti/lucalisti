@@ -1,4 +1,4 @@
-# Hi there, I'm Luca Vincent Listi 👋
+# Hi there, I'm Luca Listi 👋
 
 I'm a passionate coder and aspiring data engineer/scientist with a strong interest in technology innovation and a love for continuous learning. Welcome to my GitHub profile!
 
