@@ -8,7 +8,6 @@ I'm a passionate coder and aspiring data engineer/scientist with a strong intere
 - 🎓 **Education**: B.S. in Information Systems with a minor in Computer Science from the University of Illinois Urbana-Champaign (Graduating May 2025).
 - 📚 **Relevant Coursework**: Data Science & Analytics, Big Data Infrastructure, Database Design & Management, Information System Analysis & Design, Discrete Mathematics, IT for Organized Networks, Data Structures & Algorithms.
 - 📊 **Certifications**: Databricks Data Engineer, Gies Business Analytics.
-- 📈 **GPA**: 3.78/4.0 (High Honors).
 
 ## Projects
 
