@@ -4,9 +4,9 @@ I'm a passionate coder and aspiring data engineer/scientist with a strong intere
 
 ## About Me
 
-- 🌟 **Passionate about**: Technology, innovation, and continuous learning.
-- 🎓 **Education**: B.S. in Information Systems with a minor in Computer Science from the University of Illinois Urbana-Champaign (Graduating May 2025).
-- 📚 **Relevant Coursework**: Data Science & Analytics, Big Data Infrastructure, Database Design & Management, Information System Analysis & Design, Discrete Mathematics, IT for Organized Networks, Data Structures & Algorithms.
+- 🌟 **Passionate about**: Technology, innovation, Chicago Sports, Chess, Golf, and Philosophy.
+- 🎓 **Education**: Studying Information Systems & Computer Science at the University of Illinois Urbana-Champaign (Graduating May 2025).
+- 📚 **Relevant Coursework**: Data Structures & Algorithms, Data Science & Analytics, Big Data Infrastructure, Database Design & Management, Information System Analysis & Design, Discrete Mathematics, Database Systems, Product Development, and Game Development.
 - 📊 **Certifications**: Databricks Data Engineer, Gies Business Analytics.
 
 ## Projects
@@ -28,7 +28,7 @@ Optimizing the seam carving algorithm to handle large files and multiple success
 
 ## Professional Experience
 
-### Business Systems Analyst Intern at Origami Risk (May 2024 – Present)
+### Business Systems Analyst Intern at Origami Risk (May 2024 – August 2024)
 - Migrated legacy client systems and data to AWS cloud using advanced SQL queries for ETL processes, ensuring data integrity.
 - Developed client-side solutions with JavaScript, HTML, & XML for enhanced UI and custom client GUIs.
 - Analyzed business requirements and workflows, implementing improvements for efficiency & functionality.
@@ -50,7 +50,7 @@ Optimizing the seam carving algorithm to handle large files and multiple success
 
 ## Skills
 
-- **Programming Languages**: Python, SQL, C++, Java, JavaScript, HTML, XML.
+- **Programming Languages**: Python, SQL, C++, Java, JavaScript, Unreal Engine, CSS, HTML, XML.
 - **Technologies & Tools**: Databricks, AWS, GCP, Pyspark, NoSQL, Apache Spark, Numpy, GitHub.
 - **Skills**: Large Language Models (GenAI), Machine Learning Forecasting Models, CI/CD, Natural Language Processing (NLP), Machine Learning Algorithms for Big Data, Cloud Computing, Big Data Infrastructure.
 
